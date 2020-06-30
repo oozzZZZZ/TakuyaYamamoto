@@ -1,0 +1,12 @@
+
+body{
+    background-color: white;
+}
+li{
+    list-style-type:disk;
+    margin: auto;
+    color: rgb(115, 89, 231);
+}
+a{
+    font-weight: bold;
+}
